@@ -23,7 +23,6 @@
 
 # Tech Blog
 [![VelogBadge](http://img.shields.io/badge/-%20Velog-green?style=flat-square&logo=Velog&link=https://velog.io/@antking/posts/)](https://velog.io/@antking/posts)
-[![notion](http://img.shields.io/badge/-%20Notion-green?style=flat-square&logo=notion&link=https://www.notion.so/_-6f219b46c21647a9ae04b16130e2f6a0)](https://www.notion.so/_-6f219b46c21647a9ae04b16130e2f6a0)
 
 
 
