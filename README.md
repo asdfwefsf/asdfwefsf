@@ -7,12 +7,6 @@
 
 
 
-&include_all_commits=true
-&count_private=true
-183
-C+
-
-
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bethel5308)](https://solved.ac/bethel5308/)
